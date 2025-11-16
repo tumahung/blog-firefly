@@ -2,7 +2,7 @@
 title: "Cạo, nhổ hay wax lông gây thâm nách? (Phân tích & Lời khuyên từ chuyên gia)"
 published: 2025-11-17
 description: "Chúng ta phân tích khoa học 3 phương pháp 'triệt lông' phổ biến: Cạo, nhổ, và wax. Đâu mới là nguyên nhân chính gây thâm nách và tổn thương da?"
-tags: ["cạo lông", "nhổ lông nách", "wax lông", "nguyên nhân thâm nách", "chăm sóc da"]
+tags: ["cạo lông", "nhổ lông nách", "wax lông", "thâm nách", "chăm sóc da"]
 category: "Nách"
 licenseName: "JUJY JAPAN"
 author: "N Tage"
