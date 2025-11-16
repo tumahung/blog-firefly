@@ -3,9 +3,9 @@ title: "Bách khoa toàn thư về thâm nách: 10 Nguyên nhân khoa học ph�
 published: 2025-11-16
 pinned: true
 description: "Bạn đang vật lộn với tình trạng thâm nách? Cẩm nang này bóc tách 10 nguyên nhân khoa học (từ thói quen, nội tiết đến y tế) và giúp bạn tự nhận biết."
-tags: ["thâm nách", "nguyên nhân thâm nách", "chăm sóc da", "tăng sắc tố", "Acanthosis Nigricans", "Tuyến 1"]
+tags: ["thâm nách", "chăm sóc da"]
 category: "Nách"
-author: "[Tên Chuyên Gia Của Bạn]"
+author: "N Tanaka"
 slug: "10-nguyen-nhan-pho-bien-tham-nach"
 image: "https://himecoto.jp/wp-content/uploads/2018/03/image-how_to_use-1-1024x766.jpg"
 draft: false
