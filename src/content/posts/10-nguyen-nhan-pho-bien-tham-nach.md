@@ -7,6 +7,7 @@ tags: ["thâm nách", "nguyên nhân thâm nách", "chăm sóc da", "tăng sắc
 category: "Nách"
 author: "[Tên Chuyên Gia Của Bạn]"
 slug: "10-nguyen-nhan-pho-bien-tham-nach"
+image: "https://himecoto.jp/wp-content/uploads/2018/03/image-how_to_use-1-1024x766.jpg"
 draft: false
 ---
 
