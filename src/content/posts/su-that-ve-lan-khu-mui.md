@@ -7,6 +7,7 @@ category: "Nách"
 licenseName: "JUJY JAPAN"
 author: "N. Tanaka"
 slug: "su-that-ve-lan-khu-mui"
+image: "https://d2w53g1q050m78.cloudfront.net/libertaonlinejp/uploads/fan/2017/12/08ecb5533fd5bb4c5339bca0ace816b1.jpg"
 sourceLink: ""
 draft: false
 ---
