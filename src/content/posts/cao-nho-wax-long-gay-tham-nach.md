@@ -8,6 +8,7 @@ licenseName: "JUJY JAPAN"
 author: "N Tage"
 sourceLink: ""
 slug: "cao-nho-wax-long-gay-tham-nach"
+image: "https://d2w53g1q050m78.cloudfront.net/libertaonlinejp/ec_assets/c29c21bb75695ce852142eaa1a11d11f676c573a-original.jpg?1591027669"
 draft: false
 ---
 
